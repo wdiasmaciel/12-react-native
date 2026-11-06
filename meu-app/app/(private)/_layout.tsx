@@ -10,7 +10,7 @@ export default function LayoutPrivado() {
       }}
     >
       <Stack.Screen name="index" options={{ title: 'Painel Principal' }} />
-      <Stack.Screen name="detalhe" options={{ title: 'Tela de Detalhes' }} />
+      <Stack.Screen name="detalhe" options={{ headerStyle: { backgroundColor: 'red' }, title: 'Tela de Detalhes' }} />
     </Stack>
   );
 }
