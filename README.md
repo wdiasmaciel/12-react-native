@@ -1,3 +1,3 @@
 # 12-react-native
 
-![Telas do exemplo](telas.png)
+![Telas do exemplo](telas2.png)
